@@ -138,6 +138,12 @@ This pipeline lays a scalable foundation for AI-powered agricultural intelligenc
 - Validate predictions with field data and collaborate with local agronomists  
 - Scale the CNN pipeline with data augmentation and more geolocated training samples
 
+#### Deployed link to project:
+https://agriculturalsuitabilityprojector.streamlit.app/
+
+#### Powerpoint presentation:
+https://docs.google.com/presentation/d/1hWk1QSoNm9zwoLlEM-xSr5jQPHJm781lHefhC7SIGrQ/edit?usp=sharing
+
 #### Sources:
 https://www.yieldgap.org/web/guest/coverage-and-data-download
 
